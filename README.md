@@ -4,7 +4,7 @@ Managua, Nicaragua
 
 ------------
 
-Desarrollador web con **ReactJS **, y **NodeJS**
+Desarrollador web con **ReactJS**, y **NodeJS**
 
 ## Tecnologías:
 
