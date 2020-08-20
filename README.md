@@ -18,4 +18,4 @@ Desarrollador web con **ReactJS**, y **NodeJS**
 
 - REACTJS
 
-[![Miguel Angel Hernández Gaitan](https://github-readme-stats.vercel.app/api?username=Miguelhg2351&show_icons=true&hide_border=true&title_color=fff&icon_color=ffb300&bg_color=09f&text_color=97e2de)](https://github.com/anuraghazra/github-readme-stats)
+[![Miguel Angel Hernández Gaitan](https://github-readme-stats.vercel.app/api?username=Miguelhg2351&show_icons=true&hide_border=true&title_color=587ec1&icon_color=a17bcf&bg_color=1a1b27&text_color=2e8983)](https://github.com/anuraghazra/github-readme-stats)
