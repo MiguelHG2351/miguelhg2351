@@ -27,4 +27,4 @@ Desarrollador web con **ReactJS**, y **NodeJS**
 
 [![Miguel Angel Hernández Gaitan](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelhg2351&theme=graywhite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[OcotProfile MiguelHG2351](https://octoprofile.now.sh/user?id=MiguelHG2351)
+[OctoProfile MiguelHG2351](https://octoprofile.now.sh/user?id=MiguelHG2351)
